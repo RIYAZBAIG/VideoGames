@@ -18,8 +18,8 @@ const HomePage = () => {
       console.log('Fetching games from API');
 
       try {
-        // const response = await axios.get('http://localhost:3000/api/games');
-        const response = await axios.get('https://freetestapi.com/api/v1/actresses?sort=name&order=dec');
+        const response = await axios.get('http://localhost:3000/api/games');
+        // const response = await axios.get('https://freetestapi.com/api/v1/actresses?sort=name&order=dec');
 
         console.log('API response:', response.data);
 
