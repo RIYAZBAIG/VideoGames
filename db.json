@@ -1,0 +1,312 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "firstReleaseDate": "1540944000000",
+                "name": "SEGA AGES Phantasy Star",
+                "rating": "90",
+                "summary": "The classic galactical adventure arrives on Nintendo Switch! \n \nThe tyrant Lassic rules the cosmos, and it is up to you to defeat his evil reign. Witness the revival of this defining RPG in SEGA AGES Phantasy Star. \n \nTake advantage of the new dungeon map display and the acclaimed “Ages Mode” as you traverse tricky dungeon mazes and battle ferocious 8-bit beasts. Phantasy Star has claimed its place as a pioneer RPG and its retro-spirit is sure to find a home in the hearts of old and new fans alike.",
+                "createdAt": "2024-07-20T11:13:42.963Z",
+                "updatedAt": "2024-07-20T11:13:42.963Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "firstReleaseDate": "1519171200000",
+                "name": "Layers of Fear: Legacy",
+                "rating": "90",
+                "summary": "The Masterpiece of Fear",
+                "createdAt": "2024-07-20T11:13:42.967Z",
+                "updatedAt": "2024-07-20T11:13:42.967Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "firstReleaseDate": "1538092800000",
+                "name": "Namco Museum Arcade Pac",
+                "rating": "77",
+                "summary": "All the best Namco arcade games in the palm of your hand. \n \nSave your quarters and bring the arcade home with the ultimate two-in-one game ‘pac,’ Namco Museum Arcade Pac! Enjoy the nostalgic classics in Namco Museum and the flashy maze madness of Pac-Man Championship Edition 2 Plus with friends or solo, at home or on the go, for exciting arcade fun wherever you are—exclusively for the Nintendo Switch.",
+                "createdAt": "2024-07-20T11:13:42.969Z",
+                "updatedAt": "2024-07-20T11:13:42.969Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "firstReleaseDate": "1543276800000",
+                "name": "This War of Mine: Complete Edition",
+                "rating": "70",
+                "summary": "In This War Of Mine you do not play as an elite soldier, rather a group of civilians trying to survive in a besieged city; struggling with lack of food, medicine and constant danger from snipers and hostile scavengers. The game provides an experience of war seen from an entirely new angle. \n \nThe pace of This War of Mine is imposed by the day and night cycle. During the day snipers outside stop you from leaving your refuge, so you need to focus on maintaining your hideout: crafting, trading and taking care of your survivors. At night, take one of your civilians on a mission to scavenge through a set of unique locations for items that will help you stay alive. \n \nMake life-and-death decisions driven by your conscience. Try to protect everybody from your shelter or sacrifice some of them for longer-term survival. During war, there are no good or bad decisions; there is only survival. The sooner you realize that, the better.",
+                "createdAt": "2024-07-20T11:13:42.972Z",
+                "updatedAt": "2024-07-20T11:13:42.972Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "firstReleaseDate": "1564012800000",
+                "name": "Rune Factory 4 Special",
+                "rating": "80.1152429730073",
+                "summary": "Experience this legendary fantasy adventure like never before and embark on exciting escapades with your favorite characters in the brand new Newlywed Mode!",
+                "createdAt": "2024-07-20T11:13:42.974Z",
+                "updatedAt": "2024-07-20T11:13:42.974Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "firstReleaseDate": "1536796800000",
+                "name": "Surgeon Simulator CPR",
+                "rating": "60",
+                "summary": "Didn’t fancy seven years at medical school? Skip straight to the operating table with the critically-acclaimed Surgeon Simulator CPR, fully revived and feeling better-than-ever on the Nintendo Switch™! \n \nNow featuring all-new motion control functionality as well as local co-op play, it’s time to scrub up for the most immersive version yet of the infamous operation sim! \n \nON CALL 24/7! \n \nStep into the shoes of Nigel Burke - a would-be surgeon with a less-than-conventional toolkit - as he performs terrifying \n \ntransplants in theatre, high-pressure procedures in an ambulance, and anti-gravitational operations in space! Yes, operating on the go’s never been easier thanks to the Nintendo Switch",
+                "createdAt": "2024-07-20T11:13:42.975Z",
+                "updatedAt": "2024-07-20T11:13:42.975Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "firstReleaseDate": "1570492800000",
+                "name": "BurgerTime Party!",
+                "rating": "83",
+                "summary": "Peter Pepper's Burger is the hottest grill in town, thanks to its classic menu of award-winning puzzles and patties. But when retro gaming's master chef can't take the heat of inventing a brand-new burger, the ingredients that got chopped from Chef Peter Pepper's latest recipe take matters into their own comically oversized gloves. \n \nOut of the trash can leap four nefarious Food Foes, edible enemies with an appetite for revenge! In the ultimate battle of man vs. food, will cook or cuisine reign supreme? \n \nIn 1982, Chef Peter Pepper and the Food Foes delighted arcade-goers worldwide with the action/puzzler BurgerTime. The classic gameplay returns in a fresh, colorful package full of tasty twists and scrumptious surprises as BurgerTime Party! for the Nintendo Switch system! Iron-willed chefs can individually tackle the solo campaign or join up to three friends in local multiplayer, either by working cooperatively to defeat the Food Foes together, or by taking control of one or more Food Foes to stop the other team's chef(s) from completing their culinary masterpieces. With over 100 jumbo-sized stages and a variety of all-new modes and challenges, however you play, have it your way!",
+                "createdAt": "2024-07-20T11:13:42.978Z",
+                "updatedAt": "2024-07-20T11:13:42.978Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "firstReleaseDate": "1513209600000",
+                "name": "RXN -Raijin-",
+                "rating": "60",
+                "summary": "Japanese game developer and shoot-'em-up specialists Gulti and Kayac are proud to present the all-new RXN -Raijin-.",
+                "createdAt": "2024-07-20T11:13:42.983Z",
+                "updatedAt": "2024-07-20T11:13:42.983Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "firstReleaseDate": "1559260800000",
+                "name": "Geki Yaba Runner: Anniversary Edition",
+                "rating": "57",
+                "summary": "Who are you? A charming little gnome. What’s your mission? To save an innocent princess from her dismal fate. To achieve this, all you have to do is run. Sounds simple enough. Let’s not forget though, that in general, gnomes are not what you’d normally call “the running type.” But don’t be fooled – the blood of a raging beast flows through the veins of this little leprechaun. So what are you waiting for? Take control of this adorable gnome and save the princess!",
+                "createdAt": "2024-07-20T11:13:42.988Z",
+                "updatedAt": "2024-07-20T11:13:42.988Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 10,
+            "attributes": {
+                "firstReleaseDate": "1518739200000",
+                "name": "Joe Dever's Lone Wolf",
+                "rating": "60",
+                "summary": "Lone Wolf, the last of the order of the Kai Lords, must face yet another threat posed by the dreaded Darklods. No-one has heard from the border village of Rockstarn in weeks, and Lone Wolf travels to the very frontier of the Kingdom of Sommerlund to find out what happened. He will find challenges and adventures awaiting for him, memorable characters and meaningful choices to make as the story progresses. Epic battles will take place at the wild frontier, deep down in ancient ruins and even across the border, trespassing into the terrible Darklands.",
+                "createdAt": "2024-07-20T11:13:42.992Z",
+                "updatedAt": "2024-07-20T11:13:42.992Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 11,
+            "attributes": {
+                "firstReleaseDate": "1565913600000",
+                "name": "Grandia HD Collection",
+                "rating": "80",
+                "summary": "Two quintessential RPGs have finally gone portable on one of gaming's most popular console/handheld hybrid platforms. The highly anticipated GRANDIA HD Collection for the Nintendo Switch is here",
+                "createdAt": "2024-07-20T11:13:42.996Z",
+                "updatedAt": "2024-07-20T11:13:42.996Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 12,
+            "attributes": {
+                "firstReleaseDate": "1509580800000",
+                "name": "Super Beat Sports",
+                "rating": "53",
+                "summary": "WHAT IS SUPER BEAT SPORTS? \nIt’s a collection of five sports-themed mini games with a musical twist- coming this Fall exclusively for the Nintendo Switch. Swing, volley, and score to the music to come out on top. Add instant multiplayer excitement to any party!",
+                "createdAt": "2024-07-20T11:13:42.998Z",
+                "updatedAt": "2024-07-20T11:13:42.998Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 13,
+            "attributes": {
+                "firstReleaseDate": "1528934400000",
+                "name": "Chameleon Run Deluxe Edition",
+                "rating": "93",
+                "summary": "Deluxe Edition features a handful of new courses, and even a fourth additional challenge to complete for each level.",
+                "createdAt": "2024-07-20T11:13:43.008Z",
+                "updatedAt": "2024-07-20T11:13:43.008Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 14,
+            "attributes": {
+                "firstReleaseDate": "1533168000000",
+                "name": "Picross S2",
+                "rating": "83",
+                "summary": "The second installment in Jupiter Corporation's Picross S series for the Switch.",
+                "createdAt": "2024-07-20T11:13:43.011Z",
+                "updatedAt": "2024-07-20T11:13:43.011Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 15,
+            "attributes": {
+                "firstReleaseDate": "1495065600000",
+                "name": "Flip Wars",
+                "rating": "54",
+                "summary": "\"This tense multiplayer action game will have you stomping to flip over panels—and unwitting opponents! To win, flip the most panels to your color in local battles, online*, or single-player. The more you flip, the faster you’ll move in a mad dash to nab power ups. Increase your flip range, turn invincible, and more across 3 modes and 12 arenas! \n \nCompete alone or against up to 3 players to see who’s best at each mode: flip the most panels before time runs up in Panel Battle, knock out the most opponents in Time Battle, or outlast your rivals in Life Battle. All 12 arenas have 4 layouts to choose from, some containing hazards like panel-flipping buttons, beam cannons, and waves so beautiful they truly stun competitors. Learn the art of the flip with tutorials and try your hand at achievements. When you’re ready to compete, jump into an online* battle or a private room with friends via local wireless. No matter how you play, it’s time to think fast and pull off the ultimate color scheme!\"",
+                "createdAt": "2024-07-20T11:13:43.014Z",
+                "updatedAt": "2024-07-20T11:13:43.014Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 16,
+            "attributes": {
+                "firstReleaseDate": "1529971200000",
+                "name": "Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
+                "rating": "90.9642767962327",
+                "summary": "Embark in an epic battle against a vengeful Rabbid Kong who uses his new powers to take over a mysterious island. Donkey Kong, Rabbid Peach, and a moody new Rabbid hero, Rabbid Cranky, will team up on a journey across four brand-new environments. Discover a world full of reinvented tactical gameplay, new enemies, and secrets to uncover.",
+                "createdAt": "2024-07-20T11:13:43.015Z",
+                "updatedAt": "2024-07-20T11:13:43.015Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 17,
+            "attributes": {
+                "firstReleaseDate": "1518048000000",
+                "name": "ATOMIK: RunGunJumpGun",
+                "rating": "70",
+                "summary": "ATOMIK: RunGunJumpGun is a tough as nails 2D action platformer that puts a teeth-rattling, gravity-defying weapon in your hands. With a cast of crazed characters, simple but beautifully difficult gameplay, and a pulsing musical score, ATOMIK: RunGunJumpGun is a loud, trippy mess of twitchy platforming goodness.",
+                "createdAt": "2024-07-20T11:13:43.017Z",
+                "updatedAt": "2024-07-20T11:13:43.017Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 18,
+            "attributes": {
+                "firstReleaseDate": "1543276800000",
+                "name": "Spintires: MudRunner – American Wilds Edition",
+                "rating": "77",
+                "summary": "Spintires: MudRunner – American Wilds is the ultimate version of the indie hit Spintires: MudRunner, putting players in the driver’s seat and daring them to take charge of incredible all-terrain vehicles, venturing across realistic, physics-simulated landscapes with only a map and compass as guides!",
+                "createdAt": "2024-07-20T11:13:43.020Z",
+                "updatedAt": "2024-07-20T11:13:43.020Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 19,
+            "attributes": {
+                "firstReleaseDate": "1527552000000",
+                "name": "Fallen Legion: Rise to Glory",
+                "rating": "77",
+                "summary": "\"Return to the battlefield of Fenumia, where a besieged nation stands on the brink of war. See the conflict through the lenses of Princess Cecille and Legatus Laendur, one who would restore her kingdom to its former glory and one who would see a new nation rise in its place. Combining both Fallen Legion: Flames of Rebellion and Fallen Legion: Sins of an Empire for the first time on one console, Fallen Legion: Rise to Glory includes all new art, Exemplars, monsters, bosses and challenges not found in the original releases. See the story from all sides anywhere you go in Fallen Legion: Rise to Glory, coming 2018 for Nintendo Switch!\"",
+                "createdAt": "2024-07-20T11:13:43.022Z",
+                "updatedAt": "2024-07-20T11:13:43.022Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 20,
+            "attributes": {
+                "firstReleaseDate": "1515024000000",
+                "name": "Pic-a-Pix Deluxe",
+                "rating": "87",
+                "summary": "Pic-a-Pix are exciting logic puzzles that form whimsical pixel art pictures when solved. Pic-a-Pix are sometimes known by other names, such as Picross, Nonogram, Paint by Numbers, Griddlers, Hanjie and many more.",
+                "createdAt": "2024-07-20T11:13:43.027Z",
+                "updatedAt": "2024-07-20T11:13:43.027Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 21,
+            "attributes": {
+                "firstReleaseDate": "1519257600000",
+                "name": "Pac-Man Championship Edition 2 Plus",
+                "rating": "77",
+                "summary": "The highly acclaimed PAC-MAN Championship Edition 2 series has finally come to Nintendo Switch in the name of PAC-MAN Championship Edition 2 PLUS!",
+                "createdAt": "2024-07-20T11:13:43.047Z",
+                "updatedAt": "2024-07-20T11:13:43.047Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 22,
+            "attributes": {
+                "firstReleaseDate": "1509408000000",
+                "name": "Monopoly for Nintendo Switch",
+                "rating": "73",
+                "summary": "Ubisoft's Monopoly for Nintendo Switch takes advantage of the console's unique features.",
+                "createdAt": "2024-07-20T11:13:43.053Z",
+                "updatedAt": "2024-07-20T11:13:43.053Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 23,
+            "attributes": {
+                "firstReleaseDate": "1528934400000",
+                "name": "Arcade Archives DONKEY KONG",
+                "rating": "83",
+                "summary": "DONKEY KONG is an action game released in 1981 by Nintendo. Avoid a variety of obstacles while heading through a construction site to make it to the top and rescue Lady. Use the hammer to destroy the barrels and fire coming towards you to earn more points.",
+                "createdAt": "2024-07-20T11:13:43.056Z",
+                "updatedAt": "2024-07-20T11:13:43.056Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 24,
+            "attributes": {
+                "firstReleaseDate": "1556150400000",
+                "name": "Picross S3",
+                "rating": "63",
+                "summary": "The third installment in Jupiter Corporation's Picross S series for the Switch.",
+                "createdAt": "2024-07-20T11:13:43.057Z",
+                "updatedAt": "2024-07-20T11:13:43.057Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        },
+        {
+            "id": 25,
+            "attributes": {
+                "firstReleaseDate": "1529625600000",
+                "name": "Mario Tennis Aces",
+                "rating": "71.5321317222551",
+                "summary": "A new Mario Tennis game is bringing a new level of skill and competition to Nintendo Switch. Mario steps onto the court in classy tennis garb for intense rallies against a variety of characters in full-blown tennis battles. New wrinkles in tennis gameplay will challenge your ability to read an opponent's position and stroke to determine which shot will give you the advantage. And this time the game adds the first story mode since the Mario Tennis game on Game Boy Advance, offering a new flavor of tennis gameplay, with a variety of missions, boss battles and more",
+                "createdAt": "2024-07-20T11:13:43.059Z",
+                "updatedAt": "2024-07-20T11:13:43.059Z",
+                "publishedAt": "2024-07-20T11:13:42.959Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 4,
+            "total": 100
+        }
+    }
+}

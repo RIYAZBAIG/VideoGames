@@ -1,0 +1,76 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: linear-gradient(#081221, #03080f);
+  color: #c1d1e8;
+}
+
+.filter-results {
+  background-color: #0e1a2b;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  color: #c1d1e8;
+}
+
+.filter-results input, .filter-results select {
+  background-color: #182c47;
+  color: #c1d1e8;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.game-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.game-card {
+  background-color: #0e1a2b;
+  padding: 20px;
+  border-radius: 5px;
+  color: #c1d1e8;
+}
+
+.game-card h2, .game-card p {
+  color: #c1d1e8;
+}
+
+.search-bar {
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-right: 10px;
+  background-color: #182c47;
+  color: #c1d1e8;
+}
+
+.search-bar button {
+  padding: 10px 20px;
+  background-color: #5692e8;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.home {
+  margin: 0 10px; /* Optional: adjust spacing between headers */
+}
+
+
+
+
+
