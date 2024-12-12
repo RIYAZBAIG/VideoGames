@@ -7,6 +7,8 @@ const GameCard = ({ game }) => {
       <p>{game.summary}</p>
       <p>Rating: {game.rating}</p>
       <p>Release Date: {new Date(game.firstReleaseDate).toLocaleDateString()}</p>
+      <p>Release Date: {new Date(game.firstReleaseDate).toLocaleDateString()}</p>
+
     </div>
   );
 };
